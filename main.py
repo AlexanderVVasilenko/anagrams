@@ -15,6 +15,7 @@ def reverse_words(text: str) -> str:
 
 
 # Example usage
-input_text = "a1bcd efg!h"
-output_text = reverse_words(input_text)
-print(output_text)
+if __name__ == '__main__':
+    input_text = "a1bcd efg!h"
+    output_text = reverse_words(input_text)
+    print(output_text)
