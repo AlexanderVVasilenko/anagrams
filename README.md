@@ -42,13 +42,3 @@ To run the tests, execute the following command:
 pytest test_reverse_words.py
 ```
 This will execute the test suite in the specified file and display the results.
-
-### Options
-You can also specify additional options when running tests. For example:
-
-Run tests and show print statements:
-
-```bash
-pytest -s test_reverse_words.py
-```
-For more information about available options, you can refer to the [pytest documentation](https://docs.pytest.org/en/latest/).
