@@ -51,9 +51,4 @@ Run tests and show print statements:
 ```bash
 pytest -s test_reverse_words.py
 ```
-Run specific tests by providing the test name:
-
-```bash
-pytest test_reverse_words.py::test_reverse_words_single_word
-```
 For more information about available options, you can refer to the [pytest documentation](https://docs.pytest.org/en/latest/).
