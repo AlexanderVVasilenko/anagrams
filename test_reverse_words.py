@@ -1,5 +1,4 @@
-# test_reverse_words.py
-from main import reverse_words  # Replace 'your_module' with the actual module name
+from main import reverse_words
 
 
 class TestReverseWords:

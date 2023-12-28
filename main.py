@@ -14,7 +14,6 @@ def reverse_words(text: str) -> str:
     return result
 
 
-# Example usage
 if __name__ == '__main__':
     input_text = "a1bcd efg!h"
     output_text = reverse_words(input_text)
